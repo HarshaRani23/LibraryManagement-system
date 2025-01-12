@@ -13,7 +13,7 @@ const router = require("express").Router();
 dotenv.config();
 
 
-app.use(morgan("dev"));
+
 
 
 //database connection
